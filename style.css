@@ -11,6 +11,13 @@ body {
   line-height: 1.6;
 }
 
+img {
+
+  border-radius: 20%;
+
+
+}
+
 header {
   background-color: #3b7e59;
   color: white;
